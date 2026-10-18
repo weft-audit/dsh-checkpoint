@@ -1,0 +1,11 @@
+{
+  "name": "dsh-checkpoint",
+  "version": "0.1.0",
+  "private": false,
+  "description": "Task checkpoint protocol for DeepSeek Harness: resume only remaining steps; never auto-resume",
+  "license": "MIT",
+  "type": "module",
+  "engines": {
+    "dsh": ">=0.2.0-rc.2"
+  }
+}
